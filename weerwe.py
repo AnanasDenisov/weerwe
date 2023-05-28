@@ -33,4 +33,4 @@ async def on_message(message):
     return password
 
 
-client.run("MTEwNTkwNzcyOTcwMjMyMjIxNg.G-9OCa.jmTxsEf8m4vl7tNRW8eNzp8XWFWicXHeOdwjZk")
+client.run("")
